@@ -1,6 +1,6 @@
 import streamlit as st
 from groq import Groq
-st.set.page_config("PragyanAI Content  Generator",layout="wide")
+st.set_page_config("PragyanAI Content  Generator",layout="wide")
 st.title("SDP_AI-content Generator")
 st.image("download.jpg")
 
